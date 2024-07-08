@@ -223,4 +223,4 @@ operm <- scan1perm(pr, mydata_qtl2$pheno,kinship=kinship, n_perm=1000, cores=10)
 summary(operm)
 ```
 
-
+### <h1 id="2"> Chip-seq </h1>
